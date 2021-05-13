@@ -34,7 +34,7 @@ namespace SeriesRegisterApp
             return this.Id;
         }
 
-        public void exclude(){
+        public void Exclude(){
             this.Excluded = true;
         }
             
